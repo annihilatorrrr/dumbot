@@ -1,3 +1,7 @@
+Moved to https://codeberg.org/Lonami/dumbot. The GitHub repository may be deleted in the future.
+
+---
+
 # dumbot
 
 dumb async telegram bot for python 3.
